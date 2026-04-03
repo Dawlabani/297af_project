@@ -1,3 +1,9 @@
 .DS_Store
 .claude/
 *.pkl
+
+# Ignore data
+batch_*/
+*.tsv
+# Ignore TCGA raw data
+*.tar.gz
