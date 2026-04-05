@@ -1,0 +1,20 @@
+{
+  "source_rows": 60660,
+  "source_samples": 1118,
+  "source_duplicate_gene_rows": 1233,
+  "source_noninteger_samples": [
+    "TCGA-A7-A13E-01A",
+    "TCGA-A7-A26E-01A",
+    "TCGA-A7-A0DB-01A",
+    "TCGA-A7-A13D-01A",
+    "TCGA-A7-A26J-01A"
+  ],
+  "dedup_rows": 59427,
+  "strict_rows": 33349,
+  "strict_samples": 1113,
+  "count_threshold": 10,
+  "min_samples": 10,
+  "dropped_noninteger_samples": true,
+  "metadata_strict_written": true,
+  "strict_output": "exp_data_filtered_strict.pkl"
+}

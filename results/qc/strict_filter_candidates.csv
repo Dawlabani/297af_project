@@ -1,0 +1,7 @@
+count_threshold,min_samples,rows_after_dedup_filter
+10,2,41554
+10,5,37362
+10,10,33755
+10,20,30991
+10,50,28110
+10,77,26734
