@@ -8,3 +8,5 @@ batch_*/
 *.tsv
 # Ignore TCGA raw data
 *.tar.gz
+
+*.txt
